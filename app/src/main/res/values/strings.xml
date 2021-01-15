@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LoginTypes</string>
+    <string name="facebook_app_id">243339557161737</string>
+    <string name="fb_login_protocol_scheme">fb243339557161737</string>
+    <string name="api_key">4PnDB7EG1Xi2lDKb8S46qgEdh</string>
+    <string name="api_secret_key">GgZP7vq7PXHFMXyA7o9Eu1i5pwE9uZv0DDToN8UcXMakIyTkaL</string>
+
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="Facebook_signin_success">FaceBook:On Success</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="google_sign_in_successful">Google Sign In Successful</string>
+    <string name="welcome_to_home_fragment">Welcome to Home Fragment</string>
+    <string name="log_out">Logout</string>
+    <string name="log_out_successful">Logout Successful</string>
+    <string name="sign_in">SignIn</string>
+    <string name="sign_up">SignUp</string>
+    <string name="already_a_user">Already have an account? Sign in here</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="not_registered">Not registered?SignUp</string>
+    <string name="password_does_not_match">Password does not match</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="please_confirm_password">Please confirm your password</string>
+    <string name="please_enter_your_email">Please enter your email-id</string>
+    <string name="Fields_are_empty">Fields Are Empty</string>
+    <string name="login_error">"Login Error, Please Login Again"</string>
+    <string name="error">Login Error</string>
+    <string name="please_login">Please Login</string>
+    <string name="sign_up_unsuccessful">"SignUp Unsuccessful, Please Try Again"</string>
+    <string name="empty_text"></string>
+    <string name="credential_success">signInWithCredential:success</string>
+    <string name="successful_sign_in_with_twitter">Successfully Signed In with Twitter </string>
+</resources>
